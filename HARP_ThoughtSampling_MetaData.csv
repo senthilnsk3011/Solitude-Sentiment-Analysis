@@ -1,0 +1,88 @@
+ParticipantID,Participant ID,None
+Language,In which language did the participant provide their thought recordings?,"{1.00, English; 2.00, Mandarin; 3.00, Cantonese}"
+StudyDay,Day in the time-sampling phase,None
+QuestionnaireDate,Date when participant started the questionnaire using idialogpad,None
+QuestionnaireTime,Time when participant started the questionnaire using idialogpad,None
+ThoughtSamplMODE_1_CodeTR01,Thought-sampling input mode - Input #1,None
+ThoughtSamplTEXT_1_CodeTR02,Thought-sampling input text - Input #1,None
+ThoughtSampl_1_RecordingDate,Thought-sampling input voice recording date - Input #1,None
+ThoughtSampl_1_RecordingTime,Thought-sampling input voice recording time - Input #1,None
+ThoughtSamplMODE_2_CodeTR01,Thought-sampling input mode - Input #2,None
+ThoughtSamplTEXT_2_CodeTR02,Thought-sampling input text - Input #2,None
+ThoughtSampl_2_RecordingDate,Thought-sampling input voice recording date - Input #2,None
+ThoughtSampl_2_RecordingTime,Thought-sampling input voice recording time - Input #2,None
+ThoughtSamplMODE_3_CodeTR01,Thought-sampling input mode - Input #3,None
+ThoughtSamplTEXT_3_CodeTR02,Thought-sampling input text - Input #3,None
+ThoughtSampl_3_RecordingDate,Thought-sampling input voice recording date - Input #3,None
+ThoughtSampl_3_RecordingTime,Thought-sampling input voice recording time - Input #3,None
+T01,I was thinking about something that happened in the past (0-100),None
+T01_rt,T01 reaction time,None
+T02,I was thinking about something happening in the future (0-100),None
+T02_rt,T02 reaction time,None
+T03,My thoughts were mainly about myself (0-100),None
+T03_rt,T03 reaction time,None
+T04,My thoughts were pleasant (0-100),None
+T04_rt,T04 reaction time,None
+T05,I was having a hard time shutting off negative thoughts (0-100),None
+T05_rt,T05 reaction time,None
+T06,I was just watching my thoughts go by without getting caught up in them (0-100),None
+T06_rt,T06 reaction time,None
+T07,I was exploring new or 'deep' ideas (0-100),None
+T07_rt,T07 reaction time,None
+T08,How difficult was it to describe your thoughts just now? (0-100),None
+T08_rt,T08 reaction time,None
+T09,I am happy (0-100),None
+T09_rt,T09 reaction time,None
+T10,I am calm (0-100),None
+T10_rt,T10 reaction time,None
+T11,I am tired (0-100),None
+T11_rt,T11 reaction time,None
+T12,I am in pain (0-100),None
+T12_rt,T12 reaction time,None
+T13,I am anxious (0-100),None
+T13_rt,T13 reaction time,None
+T14,I am excited (0-100),None
+T14_rt,T14 reaction time,None
+T15,I am sad (0-100),None
+T15_rt,T15 reaction time,None
+T16,I am irritated (0-100),None
+T16_rt,T16 reaction time,None
+T17,I am satisfied (0-100),None
+T17_rt,T17 reaction time,None
+T18,I feel shy (0-100),None
+T18_rt,T18 reaction time,None
+T19,I am worried about what other people might think of me (0-100),None
+T19_rt,T19 reaction time,None
+T20,I feel close to others (0-100),None
+T20_rt,T20 reaction time,None
+T21,I am lonely (0-100),None
+T21_rt,T21 reaction time,None
+T22a,Where are you? [outside],None
+T22b,Where are you? [home],None
+T22c,Where are you? [public building],None
+T22d,Where are you? [other person's house],None
+T22e,Where are you? [traveling],None
+T22f,Where are you? [other],None
+T22_rt,T22 reaction time,None
+T23a,What were you doing when you were reminded to do this questionnaire? [social activity],"{.00, option not selected; 1.00, option selected}"
+T23b,What were you doing when you were reminded to do this questionnaire? [physical activity],"{.00, option not selected; 1.00, option selected}"
+T23c,What were you doing when you were reminded to do this questionnaire? [cognitive activity],"{.00, option not selected; 1.00, option selected}"
+T23d,What were you doing when you were reminded to do this questionnaire? [self-care or health care],"{.00, option not selected; 1.00, option selected}"
+T23e,What were you doing when you were reminded to do this questionnaire? [volunteering],"{.00, option not selected; 1.00, option selected}"
+T23f,What were you doing when you were reminded to do this questionnaire? [passive leisure],"{.00, option not selected; 1.00, option selected}"
+T23g,What were you doing when you were reminded to do this questionnaire? [work],"{.00, option not selected; 1.00, option selected}"
+T23h,What were you doing when you were reminded to do this questionnaire? [other],"{.00, option not selected; 1.00, option selected}"
+T23_rt,T23 reaction time,None
+T24a,Who are you with? [Spouse or significant other],"{.00, option not selected; 1.00, option selected}"
+T24b,Who are you with? [Other family member],"{.00, option not selected; 1.00, option selected}"
+T24c,Who are you with? [Friend],"{.00, option not selected; 1.00, option selected}"
+T24d,Who are you with? [Service provider],"{.00, option not selected; 1.00, option selected}"
+T24e,Who are you with? [Coworker or classmate],"{.00, option not selected; 1.00, option selected}"
+T24f,Who are you with? [Stranger],"{.00, option not selected; 1.00, option selected}"
+T24g,Who are you with? [Other(s)],"{.00, option not selected; 1.00, option selected}"
+T24h,Who are you with? [Alone],"{.00, option not selected; 1.00, option selected}"
+T24_rt,T24 reaction time,None
+T25,What was your situation when you were reminded to do this questionnaire?,"{1.00, interacting with someone; 2.00, others nearby but not interacting; 3.00, alone}"
+T25_rt,T25 reaction time,None
+T26,"Given your present activity, which of these situations would you most like to be in?","{1.00, interacting with someone; 2.00, others nearby but not interacting; 3.00, alone}"
+T26_rt,T26 reaction time,None
